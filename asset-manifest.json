@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/heroes-rolodex/static/css/main.73e67af9.chunk.css",
+    "main.js": "/heroes-rolodex/static/js/main.41b6e4bc.chunk.js",
+    "main.js.map": "/heroes-rolodex/static/js/main.41b6e4bc.chunk.js.map",
+    "runtime-main.js": "/heroes-rolodex/static/js/runtime-main.7e0f0674.js",
+    "runtime-main.js.map": "/heroes-rolodex/static/js/runtime-main.7e0f0674.js.map",
+    "static/js/2.1322b2b6.chunk.js": "/heroes-rolodex/static/js/2.1322b2b6.chunk.js",
+    "static/js/2.1322b2b6.chunk.js.map": "/heroes-rolodex/static/js/2.1322b2b6.chunk.js.map",
+    "index.html": "/heroes-rolodex/index.html",
+    "precache-manifest.e1894d039d9389ad795259a4ba0433c3.js": "/heroes-rolodex/precache-manifest.e1894d039d9389ad795259a4ba0433c3.js",
+    "service-worker.js": "/heroes-rolodex/service-worker.js",
+    "static/css/main.73e67af9.chunk.css.map": "/heroes-rolodex/static/css/main.73e67af9.chunk.css.map",
+    "static/js/2.1322b2b6.chunk.js.LICENSE.txt": "/heroes-rolodex/static/js/2.1322b2b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e0f0674.js",
+    "static/js/2.1322b2b6.chunk.js",
+    "static/css/main.73e67af9.chunk.css",
+    "static/js/main.41b6e4bc.chunk.js"
+  ]
+}
